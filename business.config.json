@@ -1,0 +1,31 @@
+{
+  "name": "מרכז קהילתי יבור",
+  "nameEn": "Yavor Community Center",
+  "phone": "09-9543574",
+  "fax": "099506877",
+  "whatsapp": "97299506877",
+  "email": "info@javor.org.il",
+  "address": "בן סרוק 12, הרצליה",
+  "addressEn": "Ben Saruk 12, Herzliya, Israel",
+  "city": "הרצליה",
+  "cityEn": "Herzliya",
+  "country": "IL",
+  "postalCode": "46733",
+  "website": "https://www.javor.org.il",
+  "bookingType": "appointment",
+  "defaultLocale": "he",
+  "locales": ["he", "en"],
+  "coordinates": {
+    "lat": 32.1663,
+    "lng": 34.8432
+  },
+  "hours": {
+    "sun": "08:00-20:00",
+    "mon": "08:00-20:00",
+    "tue": "08:00-20:00",
+    "wed": "08:00-20:00",
+    "thu": "08:00-20:00",
+    "fri": "08:00-13:00",
+    "sat": "closed"
+  }
+}
