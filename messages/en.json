@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "siteName": "Yavor Community Center",
+    "defaultTitle": "Yavor Community Center - Arts Courses Herzliya",
+    "defaultDescription": "Yavor Community Center in Herzliya offers a wide variety of arts courses and activities for all ages. Painting, dance, music, ceramics and more. Register today!",
+    "ogImageAlt": "Yavor Community Center - Arts Courses"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "news": "News & Updates",
+    "gallery": "Photo Gallery",
+    "contact": "Contact",
+    "booking": "Register for Course",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "switchLang": "עברית"
+  },
+  "hero": {
+    "badge": "Welcome to Yavor Center",
+    "title": "Yavor Community Center",
+    "titleHighlight": "Arts Courses",
+    "subtitle": "A rich variety of courses and activities for all ages in the heart of Herzliya",
+    "description": "We offer diverse arts courses, activities for youth, adults, and seniors, and community events. Join us and discover a world of creativity, learning, and friendship.",
+    "ctaPrimary": "Register for a Course",
+    "ctaWhatsapp": "Contact via WhatsApp",
+    "scrollDown": "Scroll down"
+  },
+  "features": {
+    "title": "Center Activities",
+    "subtitle": "A variety of courses and activities for all ages",
+    "description": "At Yavor Community Center you will find a wide range of courses and activities suitable for all ages and skill levels.",
+    "learnMore": "Learn more",
+    "items": {
+      "painting": {
+        "title": "Painting & Graphics",
+        "description": "Painting courses for all levels, from beginners to advanced. Learn different techniques and develop personal creativity."
+      },
+      "dance": {
+        "title": "Dance & Movement",
+        "description": "Diverse dance courses including modern dance, ballet, and folk dances for all ages and skill levels."
+      },
+      "music": {
+        "title": "Music",
+        "description": "Music lessons, choirs, and ensembles. Learn to play various instruments and develop musical talent."
+      },
+      "ceramics": {
+        "title": "Ceramics & Sculpture",
+        "description": "Creative ceramics and sculpture courses. Work with diverse materials and create unique art pieces."
+      },
+      "theater": {
+        "title": "Theater & Acting",
+        "description": "Theater courses for beginners and advanced students. Develop directing, acting, and presentation skills."
+      },
+      "youth": {
+        "title": "Youth Activities",
+        "description": "Diverse programs for youth including creative activities, social engagement, and community involvement."
+      },
+      "seniors": {
+        "title": "Senior Activities",
+        "description": "Courses and activities adapted for seniors, including maintaining physical and mental fitness."
+      },
+      "events": {
+        "title": "Birthdays & Events",
+        "description": "We host birthdays and special events with unique creative experiences for all guests."
+      }
+    }
+  },
+  "stats": {
+    "title": "The Center in Numbers",
+    "years": "Years of Activity",
+    "students": "Active Students",
+    "courses": "Courses & Activities",
+    "community": "Residents Served",
+    "yearsValue": "30+",
+    "studentsValue": "500+",
+    "coursesValue": "30+",
+    "communityValue": "15,000+"
+  },
+  "cta": {
+    "title": "Ready to Join?",
+    "subtitle": "Join our community and discover a world of creativity and learning",
+    "description": "Register for the course that interests you and start your journey at Yavor Community Center. We are here to answer any question.",
+    "ctaPrimary": "Register for a Course",
+    "ctaWhatsapp": "Questions? Send WhatsApp",
+    "phone": "Call Us"
+  },
+  "booking": {
+    "pageTitle": "Register for a Course",
+    "pageDescription": "Register for a course at Yavor Community Center. Choose your preferred activity and fill in your details.",
+    "title": "Register for a Course",
+    "subtitle": "Fill in your details and we will get back to you for confirmation",
+    "description": "Choose the course that interests you, enter your details and we will contact you to confirm the registration.",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "phone": "Phone",
+      "phonePlaceholder": "Enter your phone number",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email address",
+      "activity": "Choose Course",
+      "activityPlaceholder": "Select a course",
+      "preferredDate": "Preferred Date",
+      "preferredTime": "Preferred Time",
+      "message": "Additional Notes",
+      "messagePlaceholder": "Notes, questions, or special requests",
+      "submit": "Send via WhatsApp",
+      "sending": "Sending...",
+      "required": "Required field",
+      "activities": {
+        "painting": "Painting & Graphics",
+        "dance": "Dance & Movement",
+        "music": "Music",
+        "ceramics": "Ceramics & Sculpture",
+        "theater": "Theater & Acting",
+        "yoga": "Yoga & Meditation",
+        "youth": "Youth Activities",
+        "seniors": "Senior Activities",
+        "events": "Birthdays & Events",
+        "other": "Other"
+      },
+      "times": {
+        "morning": "Morning (08:00-12:00)",
+        "noon": "Noon (12:00-16:00)",
+        "afternoon": "Afternoon (16:00-19:00)",
+        "evening": "Evening (19:00-21:00)"
+      }
+    },
+    "whatsappIntro": "Hello, I am interested in registering for a course.",
+    "success": "Form submitted! We will get back to you soon.",
+    "note": "After submitting the form you will be redirected to WhatsApp to confirm registration"
+  },
+  "contact": {
+    "pageTitle": "Contact Us",
+    "pageDescription": "Contact Yavor Community Center in Herzliya. We are here to answer any question about courses and activities.",
+    "title": "Contact Us",
+    "subtitle": "We'd love to hear from you",
+    "description": "Feel free to contact us with any question about courses, activities, and events. Our team will be happy to help.",
+    "address": "Address",
+    "addressValue": "Ben Saruk 12, Herzliya",
+    "phone": "Phone",
+    "phoneValue": "09-9543574",
+    "fax": "Fax",
+    "faxValue": "099506877",
+    "email": "Email",
+    "emailValue": "info@javor.org.il",
+    "hours": "Opening Hours",
+    "hoursWeekdays": "Sun–Thu: 08:00–20:00",
+    "hoursFriday": "Friday: 08:00–13:00",
+    "hoursSaturday": "Saturday: Closed",
+    "whatsapp": "WhatsApp",
+    "sendWhatsapp": "Send WhatsApp",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Enter your name",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email address",
+      "subject": "Subject",
+      "subjectPlaceholder": "Subject of your inquiry",
+      "message": "Message",
+      "messagePlaceholder": "Write your message here",
+      "submit": "Send Message",
+      "success": "Message sent successfully! We will get back to you soon.",
+      "error": "An error occurred. Please try again."
+    },
+    "mapTitle": "Getting Here"
+  },
+  "footer": {
+    "tagline": "The Heart of the Community in Herzliya",
+    "rights": "All rights reserved",
+    "quickLinks": "Quick Links",
+    "contactUs": "Contact Us",
+    "followUs": "Follow Us",
+    "address": "Address",
+    "phone": "Phone",
+    "fax": "Fax",
+    "shareWithFriend": "Share with a Friend",
+    "accessibility": "Accessibility",
+    "siteMap": "Site Map",
+    "print": "Print",
+    "addToFavorites": "Add to Favorites",
+    "communityNetwork": "Herzliya Community Centers Network",
+    "visitNetwork": "Visit the Herzliya Community Centers website"
+  },
+  "unlock": {
+    "title": "Site Access",
+    "description": "This site is protected. Enter the password to continue.",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Enter password",
+    "submit": "Enter",
+    "error": "Incorrect password. Please try again."
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "backToHome": "Back to Home",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "close": "Close",
+    "whatsapp": "WhatsApp",
+    "callUs": "Call Us",
+    "register": "Register",
+    "moreInfo": "More Info",
+    "livesOnce": "You only live once"
+  }
+}
